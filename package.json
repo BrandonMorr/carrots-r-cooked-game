@@ -1,0 +1,30 @@
+{
+  "name": "carrots-r-cooked-game",
+  "version": "0.0.1",
+  "description": "A game where you cook carrots?",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonMorr/carrots-r-cooked-game.git"
+  },
+  "keywords": [
+    "Phaser",
+    "Game",
+    "Carrots"
+  ],
+  "author": "Brandon Morrissey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandonMorr/carrots-r-cooked-game/issues"
+  },
+  "homepage": "https://github.com/BrandonMorr/carrots-r-cooked-game#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {}
+}
